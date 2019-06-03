@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02e910ff-70a1-466b-be90-2cbc5ad7975d/deploy-status)](https://app.netlify.com/sites/determined-davinci-ea0b9b/deploys)
+
 # gatsby-starter-blog
 Gatsby starter for creating a blog
 
