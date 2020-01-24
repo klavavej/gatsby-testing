@@ -8,8 +8,8 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Cache-Control = ```
+    Cache-Control = '''
     public,
-    max-age=0```
+    max-age=0'''
     Content-Type = "application/json"
     X-Content-Type-Options = "nosniff"
